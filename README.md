@@ -1,6 +1,4 @@
-# Amazon-Music-Clustering-
-
-🎵 Amazon Music Clustering
+# Amazon-Music-Clustering
 
 Automatically cluster Amazon Music songs based on audio features using unsupervised learning. This helps in playlist curation, song recommendations, and artist/market insights.
 
