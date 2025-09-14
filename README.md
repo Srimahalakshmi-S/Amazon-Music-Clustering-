@@ -64,7 +64,7 @@ Add cluster labels to dataset
 
 Save final CSV with clusters
 
-📊 Results
+ ## Results
 
 Songs grouped into meaningful clusters reflecting audio similarities
 
